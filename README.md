@@ -10,22 +10,8 @@
 
 ## 👩‍💻 About Me
 
-```python
-class FatmaZahraDorgham:
-    def __init__(self):
-        self.name       = "Fatma Zahra Dorgham"
-        self.role       = "AI Engineering Student @ ESPRIT"
-        self.location   = "Tunis, Tunisia 🇹🇳"
-        self.focus      = ["Computer Vision", "NLP", "LLMs", "RAG", "Full-Stack"]
-        self.languages  = ["Arabic (Native)", "French (B2)", "English (B2)"]
-        self.seeking    = "Internship in AI / Full-Stack Development"
-
-    def currently(self):
-        return "Building AI-powered SaaS platforms with LLMs & Generative AI"
-```
-
-- 🎓 **Cycle Ingénieur – IA** at ESPRIT (2023 – Present)
-- 🔭 Currently working on **RAG pipelines, LLMs, and Generative AI**
+- 🎓 **Engineering Degree Program – AI** at ESPRIT (2023 – Present)
+- 🔭 Currently working on **Deep Learning, LLMs, and Generative AI**
 - 🌱 Always learning: **Diffusion Models, MLOps, Cloud AI**
 - 💼 Open to **AI/ML internships** and **Full-Stack Dev roles**
 - ✉️ Reach me: **dorgham.fatmaa@gmail.com**
